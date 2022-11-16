@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 9
+# date: 2014-07-18
+img: kafka.png
+alt: image-alt
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+description: test test
+---
