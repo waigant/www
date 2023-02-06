@@ -1,8 +1,9 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
+modal-id: 20001203
+date: 2000-12-03
+img: johann.png
+thumb: johann.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

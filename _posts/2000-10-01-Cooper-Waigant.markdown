@@ -1,8 +1,9 @@
 ---
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: circus.png
+modal-id: 20001001
+date: 2000-10-01
+img: cooper.jpeg
+thumb: cooper-thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

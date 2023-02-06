@@ -1,8 +1,9 @@
 ---
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: game.png
+modal-id: 20001002
+date: 2000-10-02
+img: joe.png
+thumb: joe.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

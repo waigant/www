@@ -1,8 +1,9 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: submarine.png
+modal-id: 20001103
+date: 2000-11-03
+img: maik.jpeg
+thumb: maik-thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -1,8 +1,9 @@
 ---
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: safe.png
+modal-id: 20001202
+date: 2000-12-02
+img: swetlana.png
+thumb: swetlana.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
